@@ -1,0 +1,7 @@
+C:\Users\Noah.orosa\Documents\Centro_Pokemon2\LcPhotograPhs\LcPhotograPhs\bin\Debug\LcPhotograPhs.exe.config
+C:\Users\Noah.orosa\Documents\Centro_Pokemon2\LcPhotograPhs\LcPhotograPhs\bin\Debug\LcPhotograPhs.exe
+C:\Users\Noah.orosa\Documents\Centro_Pokemon2\LcPhotograPhs\LcPhotograPhs\bin\Debug\LcPhotograPhs.pdb
+C:\Users\Noah.orosa\Documents\Centro_Pokemon2\LcPhotograPhs\LcPhotograPhs\obj\Debug\LcPhotograPhs.csproj.AssemblyReference.cache
+C:\Users\Noah.orosa\Documents\Centro_Pokemon2\LcPhotograPhs\LcPhotograPhs\obj\Debug\LcPhotograPhs.csproj.CoreCompileInputs.cache
+C:\Users\Noah.orosa\Documents\Centro_Pokemon2\LcPhotograPhs\LcPhotograPhs\obj\Debug\LcPhotograPhs.exe
+C:\Users\Noah.orosa\Documents\Centro_Pokemon2\LcPhotograPhs\LcPhotograPhs\obj\Debug\LcPhotograPhs.pdb
